@@ -151,7 +151,7 @@ Idiomas:   Português, Inglês
 <div align="center">
 
 <a href="https://github.com/Jukiooficial"><img src="https://img.shields.io/badge/GitHub-Jukiooficial-0D0D0D?style=flat&logo=github&logoColor=FFD400&color=FFB800" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/SEU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0D0D0D?style=flat&logo=linkedin&logoColor=FFD400&color=FFB800" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/jukiooficial"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0D0D0D?style=flat&logo=linkedin&logoColor=FFD400&color=FFB800" alt="LinkedIn" /></a>
 <a href="mailto:seu-email@exemplo.com"><img src="https://img.shields.io/badge/E--mail-Enviar-0D0D0D?style=flat&logo=gmail&logoColor=FFD400&color=FFB800" alt="E-mail" /></a>
 <a href="https://instagram.com/SEU-USUARIO"><img src="https://img.shields.io/badge/Instagram-Seguir-0D0D0D?style=flat&logo=instagram&logoColor=FFD400&color=FFB800" alt="Instagram" /></a>
 
